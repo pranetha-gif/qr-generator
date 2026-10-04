@@ -19,3 +19,5 @@ npm run dev
 
 ## Screenshots
 See the `screenshots` folder.
+
+Live demo:https://qr-generator-kappa-pied.vercel.app/
